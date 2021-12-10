@@ -1,0 +1,6 @@
+setup.py
+pywapp.egg-info/PKG-INFO
+pywapp.egg-info/SOURCES.txt
+pywapp.egg-info/dependency_links.txt
+pywapp.egg-info/requires.txt
+pywapp.egg-info/top_level.txt

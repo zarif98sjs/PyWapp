@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: pywapp
+Version: 1.0.1
+Summary: PyWapp : Automate sending messages and images for whatsapp
+Home-page: UNKNOWN
+Author: Md. Zarif Ul Alam
+Author-email: zarif98sjs@gmail.com
+License: UNKNOWN
+Description: PyWapp : Automate sending messages and images for whatsapp
+Keywords: python,first package
+Platform: UNKNOWN
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
