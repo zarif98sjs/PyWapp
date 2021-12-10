@@ -93,6 +93,3 @@ def send_image(group_name,image_path):
         '//span[@data-icon="send"]')
     send_btn.click()
     time.sleep(2)
-
-# send_message("Ammu","test message .. ")
-# send_image("wapp test",r"J:\My Drive\Zarif\Unilever\Work\images\img01.png")
